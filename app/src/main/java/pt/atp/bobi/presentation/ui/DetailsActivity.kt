@@ -1,7 +1,8 @@
-package pt.atp.bobi
+package pt.atp.bobi.presentation.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import pt.atp.bobi.R
 
 class DetailsActivity : AppCompatActivity() {
 
